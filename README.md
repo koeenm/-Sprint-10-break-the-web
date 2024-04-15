@@ -6,9 +6,13 @@ Doe het web het een beetje goed?
 
 ## Titel Website
 
-Welke website heb je getest? Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  
+Ik heb Lyst getest. Dat is een site waarop je kleding kan zoeken die op verschillende andere sites staan. Dus hij zoekt een verzameling van kleding op, die kleding word dus niet door hun zelf verkocht. Ik heb deze site getest op 15/04
 
-Toon een screenshot van de performance test.
+https://www.lyst.com/
+
+![image](https://github.com/koeenm/-Sprint-10-break-the-web/assets/144009715/219051c8-4d46-450d-b564-92160483aabb)
+
+![image](https://github.com/koeenm/-Sprint-10-break-the-web/assets/144009715/f49a670c-d080-471b-bc4b-3439091fac6f)
 
 Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
 
