@@ -6,7 +6,7 @@ Doe het web het een beetje goed?
 
 ## Titel Website
 
-Ik heb Lyst getest. Dat is een site waarop je kleding kan zoeken die op verschillende andere sites staan. Dus hij zoekt een verzameling van kleding op, die kleding word dus niet door hun zelf verkocht. Ik heb deze site getest op 15/04
+Ik heb Lyst getest. Dat is een site waarop je kleding kan zoeken die op verschillende andere sites staan. Dus hij zoekt een verzameling van kleding op, die kleding word dus niet door hun zelf verkocht. Als je op de kleding klikt, dan word je doorgestuurd naar de site waar deze kleding op word verkocht. Ik heb deze site getest op 15/04
 
 https://www.lyst.com/
 
